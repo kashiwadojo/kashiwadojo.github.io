@@ -24,24 +24,14 @@ description: Iaido and Jodo martial arts school in London
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://kashiwadojo.github.io"
 
-github:
-  username: github_username # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Kashiwa Dojo
-  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/kashiwadojo
+    - https://www.instagram.com/kashiwa_dojo
 
 # Site Verification Settings
 webmaster_verifications:
