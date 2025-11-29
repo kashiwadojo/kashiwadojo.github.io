@@ -1,0 +1,40 @@
+---
+layout: page
+icon: fas fa-link
+order: 5
+---
+
+### Ryoshinkan Iaido and Jodo Dojo
+
+Ryoshinkan Dojo is run by Andy Watson (iaido kyoshi 7th dan, jodo kyoshi 7th dan) and Harry Jones (iaido kyoshi 7th dan, jodo kyoshi 7th dan). Andy and Harry are Will’s jodo teachers, linking us to their teacher Ishido Sensei.
+
+[https://www.ryoshinkan.org/]()
+
+### Mugenkan Iaido and Jodo Dojo
+
+Mugenkan is led by our good friends Daniel and Kristina Silk in Salisbury, UK.
+
+[https://www.facebook.com/mugenkan/]()
+
+### Renyukan dojo
+Good friends of ours and they are based in Sunderland, run by Rob Townson, they teach iaido and jodo.
+
+[https://www.renyukan.co.uk/]()
+
+### Eimeikan Dojo
+
+Good friends of Kashiwa, they are based in Vauxhall, London and practice iaido and jodo and are led y Rob Colson.
+
+[https://eimeikandojo.co.uk/]()
+
+### Kuro Inu Dojo
+
+Good friends of Kashiwa, they teach iaido and jodo and are based in Hereford and run by Mark Snowdon.
+
+[https://kuro-inu.co.uk/]()
+
+### Nine Circles
+
+Nine circles are our main supplier of high quality Japanese training equipment.
+
+[https://www.ninecircles.co.uk/]()

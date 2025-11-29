@@ -38,3 +38,7 @@ Coaching Qualifications : Iaido & Jodo BKA Level 1
 ### Interested in joining?
 
 We take beginners at any time, and you are very welcome to come along and watch a class or, even better, join in. Your first lesson is free. We accept juniors from 11 years with parental supervision. The Dojo Leader is DBS checked and registered with the BKA.
+
+## Contact Us
+
+Please contact us via our [Facebook page](https://www.facebook.com/KashiwaDojo).
