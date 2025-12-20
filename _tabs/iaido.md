@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-![header]({{ site.url }}/assets/img/iaido.png)
+![header](/assets/img/iaido.png)
 
 ## A brief history
 
@@ -40,5 +40,5 @@ At Kashiwa we study All Japan Kendo Federation (ZNKR) iaido and our koryu (old s
 
 - **Lineage:** We are a member dojo of the European Shinkage Ryu Family, which aims to promote the study and practice of Shinkage ryu as taught by our teacher Matsuoka Yoshitaka sensei (kyoshi 8th Dan, Iaido Shinkage-ryu Kasugai-kai, Nagoya, Japan).
 
-![Matsuoka Sensei]({{ site.url }}/assets/img/10583030_10154070761024525_874801828731056799_o-e1458239586421-607x1024.jpg){: w="202" h="341" }
+![Matsuoka Sensei](/assets/img/10583030_10154070761024525_874801828731056799_o-e1458239586421-607x1024.jpg){: w="202" h="341" }
 _Matsuoka Sensei (kyoshi 8th dan, Nagoya, Japan) (Photo by David Merinero)_

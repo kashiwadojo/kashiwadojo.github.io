@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 3
 ---
 
-![header]({{ site.url }}/assets/img/jodo.png)
+![header](/assets/img/jodo.png)
 
 ## A brief history
 
