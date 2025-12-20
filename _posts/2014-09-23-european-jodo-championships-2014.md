@@ -5,7 +5,7 @@ date: 2014-09-23 11:21:58
 tags: competitions
 ---
 
-The [2014 European Jodo Championships](http://www.jodotorino2014.it/) were held in Turin, Italy over the weekend of the 12th - 14th September. The [ZNKR](https://www.kendo-fik.org/) delegation consisted of Arai Sensei (hanshi 8th dan), Kurogo Sensei (hanshi 8th dan) and Yasumaru Sensei (kyoshi 8th dan). A trio of warm hearted, highly demanding, relentless teachers! To quote Arai Sensei (translated by Andy Watson) "Let's train until we laugh our heads off!". Of course, it felt more like until our arms fell off...
+The [2014 European Jodo Championships](https://www.jodotorino2014.it/) were held in Turin, Italy over the weekend of the 12th - 14th September. The [ZNKR](https://www.kendo-fik.org/) delegation consisted of Arai Sensei (hanshi 8th dan), Kurogo Sensei (hanshi 8th dan) and Yasumaru Sensei (kyoshi 8th dan). A trio of warm hearted, highly demanding, relentless teachers! To quote Arai Sensei (translated by Andy Watson) "Let's train until we laugh our heads off!". Of course, it felt more like until our arms fell off...
 
 Friday afternoon was a free training session where the European high-grades were lined up and the remaining jodoka were able to queue up and take turns training with them. I really enjoyed having the opportunity to train with some of the highest ranking teachers around, and some other Sensei I hadn't had the pleasure of training with before. I hope this style of training becomes a regular feature.
 

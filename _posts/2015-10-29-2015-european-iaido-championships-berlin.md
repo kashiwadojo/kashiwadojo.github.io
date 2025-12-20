@@ -12,7 +12,7 @@ Thanks also to Kevin McNeill (Ojika Dojo) for helping Will with squad management
 
 An excellent few days in Berlin and see you all in Budapest next year!
 
-Photos courtesy of Chris Weber 2015© ([http://www.chrisweberpics.com/](http://www.chrisweberpics.com/))
+Photos courtesy of Chris Weber 2015© ([https://www.chrisweberpics.com/](https://www.chrisweberpics.com/))
 
 Will's semi-final match against Adam Bieniak of Poland [https://www.youtube.com/watch?v=1H_rd9b8UeE](https://www.youtube.com/watch?v=1H_rd9b8UeE)
 
