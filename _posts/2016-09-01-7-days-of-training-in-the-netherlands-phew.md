@@ -2,6 +2,8 @@
 title: 7 Days of Training in the Netherlands - Phew!
 oldlink: http://kashiwadojo.co.uk/?p=388
 date: 2016-09-01 10:52:01
+tags: seminars photos
+categories: events
 ---
 
 Kashiwa dojo had a great 5 days in Amsterdam at the Netherlands Kendo Association 50th anniversary summer seminar. Congratulations to students Isa Carbone, who passed ikkyu in both jodo and iaido, and Abdul Oyede who passed ikkyu iaido.

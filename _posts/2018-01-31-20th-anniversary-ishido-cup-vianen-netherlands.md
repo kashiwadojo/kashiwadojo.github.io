@@ -2,6 +2,8 @@
 title: 20th Anniversary Ishido Cup, Vianen, Netherlands
 oldlink: http://kashiwadojo.co.uk/?p=399
 date: 2018-01-31 13:12:01
+tags: competitions photos
+categories: events
 ---
 
 The 20th anniversary Ishido Cup, named after senior teacher Ishido Sensei, was held over four days in Vianen (Netherlands). This was the largest jodo and iaido seminar and competition Europe has ever seen with over 100 people for jodo and ~200 for iaido.

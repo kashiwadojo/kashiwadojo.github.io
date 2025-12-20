@@ -2,6 +2,8 @@
 title: BKA Iaido and Jodo National Championships 2014
 oldlink: http://kashiwadojo.co.uk/?p=245
 date: 2014-06-02 10:50:36
+tags: competitions photos
+categories: events
 ---
 
 Team Kashiwa had a great Nationals this year, winning silver in the iaido team competition, bronze in the jodo team competition and Will won a bronze in the jodo individuals and picked up the fighting spirit award for the jodo team event. Huge thanks to all that helped organise and run the events, expertly done as usual. Also special thanks to Yukiko Ayres for taking so many great photographs (including these ones!).

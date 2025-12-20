@@ -2,6 +2,8 @@
 title: 2015 European Iaido Championships, Berlin
 oldlink: http://kashiwadojo.co.uk/?p=315
 date: 2015-10-29 15:30:40
+tags: competitions photos videos
+categories: events
 ---
 
 So, that's another European Iaido Championships over; Huge thanks to the German Iaido and Kendo Federations and the European Kendo Federation for all their hard work to make it happen and run smoothly. Thanks to the ZNKR delegation, Yamazaki Sensei, Kusama Sensei and Azuma Sensei for their teaching and supervision of the event and to all the referees (more than a few difficult fights to judge). Thanks also to all the competitors (from 22 countries) for making it such a really warm and friendly event, the European Shinkage Ryu Family for a lovely reunion and to the Great Britain Iaido Squad for all their hard work and dedication.

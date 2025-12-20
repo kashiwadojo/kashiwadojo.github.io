@@ -2,6 +2,8 @@
 title: Haru Seminar, Utrecht, Netherlands March 2016
 oldlink: http://kashiwadojo.co.uk/?p=344
 date: 2016-03-17 12:06:31
+tags: seminars photos
+categories: events
 ---
 
 Last weekend Will and Rafal attended the Haru Seminar in Utrecht. Matsuoka Sensei led the two day seminar teaching Zen Nihon Kendo Renmei Iaido on the Saturday and Shinkage Ryu Iaido on the Sunday. It was a fantastic seminar and lovely reunion with the European Shinkage Family.

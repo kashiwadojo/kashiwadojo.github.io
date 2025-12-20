@@ -2,6 +2,8 @@
 title: 2014 European Iaido Championships, Helsinki, Finland
 oldlink: http://kashiwadojo.co.uk/?p=302
 date: 2014-11-07 10:19:44
+tags: competitions photos videos
+categories: events
 ---
 
 The Great Britain iaido squad, referees and supporters are just back from the 21st European Iaido Championships in Helsinki, Finland. Congratulations to Kristina Poslusna and Andy Watson for winning bronze medals.
