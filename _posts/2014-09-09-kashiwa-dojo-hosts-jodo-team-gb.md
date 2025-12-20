@@ -2,7 +2,7 @@
 title: Kashiwa Dojo Hosts Jodo Team GB!
 oldlink: http://kashiwadojo.co.uk/?p=261
 date: 2014-09-09 10:00:44
-tags: events photos
+tags: seminars photos
 categories: events
 ---
 
