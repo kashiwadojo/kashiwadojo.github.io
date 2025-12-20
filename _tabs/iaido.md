@@ -18,7 +18,7 @@ order: 2
 >
 > The compound meaning comes from the saying:
 >
-> 「常にに居て、急に合わす」> 
+> 「常にに居て、急に合わす」>
 >
 > “Tsune ni ite, kyu ni awasu”
 >

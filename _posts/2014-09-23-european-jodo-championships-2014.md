@@ -23,7 +23,21 @@ Also many thanks to Andy Watson for his tireless translation throughout the semi
 
 Will Heal, September 2014, London.
 
+
 [![](/assets/img/2014/09/IMG_0121-300x225.jpg)](/assets/img/2014/09/IMG_0121.jpg)
 _(C) Mohammad Kadiwal_
 
-[![](/assets/img/2014/09/IMG_0119-300x224.jpg)](/assets/img/2014/09/IMG_0119.jpg) [![](/assets/img/2014/09/IMG_0110-224x300.jpg)](/assets/img/2014/09/IMG_0110.jpg) [![](/assets/img/2014/09/IMG_0117-300x224.jpg)](/assets/img/2014/09/IMG_0117.jpg) [![](/assets/img/2014/09/IMG_0118-300x224.jpg)](/assets/img/2014/09/IMG_0118.jpg) [![](/assets/img/2014/09/IMG_0109-300x224.jpg)](/assets/img/2014/09/IMG_0109.jpg) [![](/assets/img/2014/09/IMG_0116-300x224.jpg)](/assets/img/2014/09/IMG_0116.jpg) [![](/assets/img/2014/09/IMG_0108-224x300.jpg)](/assets/img/2014/09/IMG_0108.jpg) [![](/assets/img/2014/09/IMG_0115-300x224.jpg)](/assets/img/2014/09/IMG_0115.jpg) [![](/assets/img/2014/09/IMG_0112-300x224.jpg)](/assets/img/2014/09/IMG_0112.jpg) [![](/assets/img/2014/09/IMG_0104-224x300.jpg)](/assets/img/2014/09/IMG_0104.jpg) [![](/assets/img/2014/09/IMG_0114-300x224.jpg)](/assets/img/2014/09/IMG_0114.jpg) [![](/assets/img/2014/09/IMG_0111-300x224.jpg)](/assets/img/2014/09/IMG_0111.jpg) [![](/assets/img/2014/09/IMG_0100-224x300.jpg)](/assets/img/2014/09/IMG_0100.jpg)
+
+[![](/assets/img/2014/09/IMG_0119-300x224.jpg)](/assets/img/2014/09/IMG_0119.jpg)
+[![](/assets/img/2014/09/IMG_0110-224x300.jpg)](/assets/img/2014/09/IMG_0110.jpg)
+[![](/assets/img/2014/09/IMG_0117-300x224.jpg)](/assets/img/2014/09/IMG_0117.jpg)
+[![](/assets/img/2014/09/IMG_0118-300x224.jpg)](/assets/img/2014/09/IMG_0118.jpg)
+[![](/assets/img/2014/09/IMG_0109-300x224.jpg)](/assets/img/2014/09/IMG_0109.jpg)
+[![](/assets/img/2014/09/IMG_0116-300x224.jpg)](/assets/img/2014/09/IMG_0116.jpg)
+[![](/assets/img/2014/09/IMG_0108-224x300.jpg)](/assets/img/2014/09/IMG_0108.jpg)
+[![](/assets/img/2014/09/IMG_0115-300x224.jpg)](/assets/img/2014/09/IMG_0115.jpg)
+[![](/assets/img/2014/09/IMG_0112-300x224.jpg)](/assets/img/2014/09/IMG_0112.jpg)
+[![](/assets/img/2014/09/IMG_0104-224x300.jpg)](/assets/img/2014/09/IMG_0104.jpg)
+[![](/assets/img/2014/09/IMG_0114-300x224.jpg)](/assets/img/2014/09/IMG_0114.jpg)
+[![](/assets/img/2014/09/IMG_0111-300x224.jpg)](/assets/img/2014/09/IMG_0111.jpg)
+[![](/assets/img/2014/09/IMG_0100-224x300.jpg)](/assets/img/2014/09/IMG_0100.jpg)
