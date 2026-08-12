@@ -19,7 +19,7 @@ Wednesdays — Iaido and Jodo 8:00 pm to 10:00 pm
 
 ### Teacher: Will Heal
 
-Will is a fully qualified and insured coach with many years experience in the arts. A 5th dan in iaido and 4th dan in jodo, he competes at the highest levels, has represented Great Britain several times on the iaido and jodo national squads and has won medals at all levels (National, European, and International).
+Will is a fully qualified and insured coach with many years experience in the arts. A 5th dan in both iaido and jodo, he competes at the highest levels, has represented Great Britain several times on the iaido and jodo national squads and has won medals at all levels (National, European, and International).
 
 Coaching Qualifications: Iaido & Jodo BKA Regional Coach (Level 3)
 
