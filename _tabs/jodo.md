@@ -8,7 +8,7 @@ order: 3
 
 ## A brief history
 
-Jodo was developed by Muso Gonnosuke about 400 years ago. The story goes that Muso Gonnosuke challenged the famous swordsman Miyamoto Musashi to a duel (with wooden swords) and was defeated but, as was rare in those days (and even rarer for Musashi), Gonnosuke was allowed to live after his defeat.
+Jodo, the way of the stick, was developed by Muso Gonnosuke about 400 years ago. The story goes that Muso Gonnosuke challenged the famous swordsman Miyamoto Musashi to a duel (with wooden swords) and was defeated but, as was rare in those days (and even rarer for Musashi), Gonnosuke was allowed to live after his defeat.
 
 Gonnosuke retreated to a cave and focussed his efforts on meditation and practice with the Jo (staff). One of several legends says that while resting near a fire in a certain temple, Gonnosuke heard a voice say, "With the round stick, know the strategy of the solar plexus" (丸木を以って、水月を知れ, maruki wo motte, suigetsu wo shire). After much practice and experimentation he developed a style of fighting that merged spear-fighting (sojutsu) and swordsmanship (kenjutsu), he named this combat form Shindo Muso Ryu and, when he was ready, Gonnosuke challenged Musashi again.
 
@@ -39,3 +39,7 @@ From the Meiji period onwards, other weapon systems were incorporated into the S
 ## Our Lineage
 
 - **Lineage:** We study under Andy Watson (kyoshi, 7th dan) and Harry Jones (kyoshi, 7th dan) of Ryoshinkan Dojo, who are direct students of Ishido Shizufumi Sensei (kyoshi, 8th dan) of the Shinbukan Ishido Dojo.
+
+## Syllabus
+
+A jo is a round 128 cm oak staff (2.4 mm wide). We train in kendo clothing - dark blue gi and hakama.
