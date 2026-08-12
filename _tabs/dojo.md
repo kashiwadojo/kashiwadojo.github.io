@@ -8,6 +8,8 @@ order: 1
 
 Kashiwa Dojo was founded in 2003 by Vito Tattoli Sensei. Will took over running the dojo in 2013, after Vito retired. We are highly dedicated to the arts of iaido and jodo, but we maintaining a relaxed and friendly atmosphere. We take pride in our diversity and are an inclusive dojo. 
 
+We practice under the regulation of the [British Kendo Association](https://www.kendo.org.uk), the [European Kendo Federation](https://www.ekf-eu.com/) and the [All Japan Kendo Federation](https://www.kendo-fik.org/english-page/english-top-page.html). All teachers are fully qualified and insured BKA coaches with many years experience.
+
 ### Location
 
 St John Bosco College ([Google Maps](https://maps.app.goo.gl/A398YpPoMTetoKXq6) Link)<br/>
