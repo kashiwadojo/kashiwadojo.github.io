@@ -10,18 +10,32 @@ order: 3
 
 Jodo was developed by Muso Gonnosuke about 400 years ago. The story goes that Muso Gonnosuke challenged the famous swordsman Miyamoto Musashi to a duel (with wooden swords) and was defeated but, as was rare in those days (and even rarer for Musashi), Gonnosuke was allowed to live after his defeat.
 
-Gonnosuke retreated to a Shinto shrine and focussed his efforts on meditation and practice with the Jo (staff). One of several legends says that while resting near a fire in a certain temple, Gonnosuke heard a voice say, "With the round stick, know the strategy of the solar plexus" (丸木を以って、水月を知れ, maruki wo motte, suigetsu wo shire). After much practice and experimentation he developed a style of fighting that merged spear-fighting (sojutsu) and swordsmanship (kenjutsu), he named this combat form Shindo Muso Ryu and, when he was ready, Gonnosuke challenged Musashi again.
+Gonnosuke retreated to a cave and focussed his efforts on meditation and practice with the Jo (staff). One of several legends says that while resting near a fire in a certain temple, Gonnosuke heard a voice say, "With the round stick, know the strategy of the solar plexus" (丸木を以って、水月を知れ, maruki wo motte, suigetsu wo shire). After much practice and experimentation he developed a style of fighting that merged spear-fighting (sojutsu) and swordsmanship (kenjutsu), he named this combat form Shindo Muso Ryu and, when he was ready, Gonnosuke challenged Musashi again.
 
 This encounter went in Gonnosuke’s favour. He was able to defeat Musashi’s Nito Ryu, two sword technique with blocks and penetrating strikes and at the end of the encounter he repaid his debt to Musashi by letting him live.
 
-Gonnosuke is reported to have developed only twelve or so basic techniques of blocking and striking initially and this number of techniques was grown to number over seventy. These techniques form the basis for modern day Jodo.
+Gonnosuke is reported to have developed only twelve or so basic techniques of blocking and striking, but this number of techniques was grown to  over seventy. These techniques form the basis for modern day Jodo.
 
-Jodo today is practised through paired kata with one person using a Jo (staff) and the other a bokken (wooden sword). The moves of the kata give the practitioner and education in focus, range, balance and grace. Jodo is also quite a good workout when doing the advanced forms!
+## Syllabus
 
-At Kashiwa we study All Japan Kendo Federation (ZNKR) jodo and our koryu (old style) is Shindo Muso Ryu.
+At Kashiwa we study the All Japan Kendo Federation (ZNKR) jodo and Shindo Muso Ryu (jo kata and auxiliary weapons).
 
 - **ZNKR Jodo:** A set of 12 standardised kata created and refined by the ZNKR. These kata are used in gradings and most competitions (taikai) and are taught to a standard throughout the world.
 
-- **Shindo Muso Ryu Jodo:** Originating from early 17th century Japan, Shindo Muso Ryu (神道夢想流) is a traditional school of jodo.
+- **Shindo Muso Ryu Jodo:** Originating from early 17th century Japan, Shindo Muso Ryu (神道夢想流) is a traditional school (koryu) of jodo.
 
-- **Lineage:** We study under Andy Watson and Harry Jones (Ryoshinkan Dojo), who are direct students of Ishido Shizufumi Sensei (Shinbukan Ishido Dojo).
+There are many sets of koryu jo forms, starting with omote, then chudan, kage, sanmidare, gohon-no-midare, and okuden.
+
+Jodo today is practised through solo techniques (tandoku dosa), paired techniques (sotai dosa), and paired kata with one person using a Jo (staff) and the other a bokuto (wooden sword, sometimes a short sword, sometimes a long/short pair). The moves of the kata give the practitioner and education in focus, range, balance and grace. Jodo is also quite a good workout when doing the advanced forms!
+
+From the Meiji period onwards, other weapon systems were incorporated into the Shindo muso ryu curriculum.
+
+- **Tanjo jutsu (Uchida ryu):** A set of 12 kata using a tanjo (a 90 cm walking stick) vs a sword
+- **Kenjutsu (Shinto ryu):** A set of 12 long sword and 4 short sword kata vs another long sword
+- **Jutte jutsu (Ikkaku ryu):** Two sets of 12 kata using a jutte (a metal truncheon with a side prong) and a tessen (a metal fan) vs a sword
+- **Kusarigama jutsu (Isshin ryu):** Two sets of 12 kata using a sickle and chain vs a sword
+- **Hojo jutsu** A set of rope tying techniques for restraint (not currently taught at Kashiwa).
+
+## Our Lineage
+
+- **Lineage:** We study under Andy Watson (kyoshi, 7th dan) and Harry Jones (kyoshi, 7th dan) of Ryoshinkan Dojo, who are direct students of Ishido Shizufumi Sensei (kyoshi, 8th dan) of the Shinbukan Ishido Dojo.
