@@ -40,6 +40,6 @@ From the Meiji period onwards, other weapon systems were incorporated into the S
 
 - **Lineage:** We study under Andy Watson (kyoshi, 7th dan) and Harry Jones (kyoshi, 7th dan) of Ryoshinkan Dojo, who are direct students of Ishido Shizufumi Sensei (kyoshi, 8th dan) of the Shinbukan Ishido Dojo.
 
-## Syllabus
+## Equipment
 
 A jo is a round 128 cm oak staff (2.4 mm wide). We train in kendo clothing - dark blue gi and hakama.
