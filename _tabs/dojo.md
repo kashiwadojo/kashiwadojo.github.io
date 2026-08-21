@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-![banner](/assets/img/dojo_banner.jpg)
+![banner](/assets/img/Kashiwa%20Facebook%202.png)
 
 ### About Us
 
