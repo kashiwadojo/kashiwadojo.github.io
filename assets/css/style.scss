@@ -1,0 +1,14 @@
+---
+---
+
+@import "chirpy";
+
+/* Force pitch black dark mode */
+:root,
+html[data-mode='dark'],
+html:not([data-mode]) {
+  --main-bg: #000000 !important;
+  --mask-bg: #000000 !important;
+  --sidebar-bg: #050505 !important;
+  --topbar-wrapper-bg: #000000 !important;
+}
