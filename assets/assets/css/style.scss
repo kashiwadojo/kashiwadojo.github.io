@@ -1,0 +1,11 @@
+---
+---
+
+/* Force dark mode background to pure black */
+html[data-mode='dark'],
+html:not([data-mode]) {
+  --main-bg: #000000;
+  --mask-bg: #000000;
+  --nav-cursor-transform: #000000;
+  --sidebar-bg: #050505; /* slightly off-black so sidebar remains subtle */
+}
