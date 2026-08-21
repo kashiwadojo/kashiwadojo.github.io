@@ -23,7 +23,7 @@ Good friends of ours and they are based in Sunderland, run by Rob Townson, they 
 
 ### Eimeikan Dojo
 
-Good friends of Kashiwa, they are based in Vauxhall, London and practice iaido and jodo and are led y Rob Colson.
+Good friends of Kashiwa, they are based in Vauxhall, London and practice iaido and jodo and are led by Rob Colson.
 
 [https://eimeikandojo.co.uk/](https://eimeikandojo.co.uk/)
 
