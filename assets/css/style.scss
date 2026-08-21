@@ -1,7 +1,14 @@
 ---
 ---
 
-/* Force pure black across system media queries and data attributes */
+/* Hide tag hashtags safely without breaking builds */
+.post-tag::before,
+a.tag::before,
+.tag::before {
+  display: none !important;
+}
+
+/* Pure black dark mode rules */
 @media (prefers-color-scheme: dark) {
   :root, html, body, #main-wrapper, #sidebar, #topbar-wrapper {
     --main-bg: #000000 !important;
@@ -26,10 +33,4 @@ body {
 
 #main-wrapper, #sidebar, #topbar-wrapper, body {
   background-color: #000000 !important;
-}
-
-/* Hide hashtag symbols on tag links */
-.post-tag::before,
-a.tag::before {
-  display: none !important;
 }
