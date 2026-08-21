@@ -1,5 +1,6 @@
-----
-- layout: tags
-- icon: fas fa-tags
-- order: 8
-----
+---
+layout: tags
+title: Tags
+dynamic_subtitles: true
+permalink: /tags/
+---
