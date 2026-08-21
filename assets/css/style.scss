@@ -1,11 +1,15 @@
 ---
 ---
 
-/* Hide tag hashtags safely without breaking builds */
+/* Hide tag hashtags and icons everywhere in Chirpy */
+.post-tags .post-tag::before,
 .post-tag::before,
 a.tag::before,
-.tag::before {
+.tag::before,
+i.fas.fa-tag,
+i.fa-tag {
   display: none !important;
+  content: "" !important;
 }
 
 /* Pure black dark mode rules */
