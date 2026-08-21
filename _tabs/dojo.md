@@ -41,4 +41,4 @@ We take beginners at any time, and you are very welcome to come along and watch 
 
 ## Contact Us
 
-Please contact us via our [Facebook page](https://www.facebook.com/KashiwaDojo). Call Will on 07906878250.
+Please contact us via our [Facebook page](https://www.facebook.com/KashiwaDojo).
