@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+permalink: /
 ---
 
 <img src="/assets/img/dojo_banner.jpg" alt="Kashiwa Dojo Banner" style="max-width: 100%; height: auto; margin-bottom: 1.5rem;">
