@@ -1,19 +1,29 @@
 ---
 ---
 
-/* Force pure black background across all dark mode selectors */
-:root,
-html,
-body,
+/* Force pure black across system media queries and data attributes */
+@media (prefers-color-scheme: dark) {
+  :root, html, body, #main-wrapper, #sidebar, #topbar-wrapper {
+    --main-bg: #000000 !important;
+    --mask-bg: #000000 !important;
+    --sidebar-bg: #000000 !important;
+    --topbar-wrapper-bg: #000000 !important;
+    --card-bg: #000000 !important;
+    background-color: #000000 !important;
+  }
+}
+
 html[data-mode='dark'],
-html[data-mode='dark'] body,
 html:not([data-mode]),
-html:not([data-mode]) body {
+body {
   --main-bg: #000000 !important;
   --mask-bg: #000000 !important;
   --sidebar-bg: #000000 !important;
   --topbar-wrapper-bg: #000000 !important;
-  --card-bg: #0a0a0a !important;
-  --picker-hover: #1a1a1a !important;
+  --card-bg: #000000 !important;
+  background-color: #000000 !important;
+}
+
+#main-wrapper, #sidebar, #topbar-wrapper, body {
   background-color: #000000 !important;
 }
