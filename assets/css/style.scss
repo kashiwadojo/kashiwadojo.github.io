@@ -27,3 +27,9 @@ body {
 #main-wrapper, #sidebar, #topbar-wrapper, body {
   background-color: #000000 !important;
 }
+
+/* Hide hashtag symbols on tag links */
+.post-tag::before,
+a.tag::before {
+  display: none !important;
+}
