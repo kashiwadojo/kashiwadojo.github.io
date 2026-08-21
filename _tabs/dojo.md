@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 1
 ---
 
+![banner](/assets/img/dojo_banner.jpg)
+
 ### About Us
 
 Kashiwa Dojo was founded in 2003 by Vito Tattoli Sensei. Will took over running the dojo in 2013, after Vito retired. We are highly dedicated to the arts of iaido and jodo, but we maintain a relaxed and friendly atmosphere. We take pride in our diversity and are an inclusive dojo. 
