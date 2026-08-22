@@ -12,7 +12,7 @@ i.fa-tag {
   content: "" !important;
 }
 
-/* Force true pitch black (#000000) across Chirpy structural variables */
+/* Force true pitch black across all CSS variables */
 :root,
 html,
 body,
@@ -26,11 +26,18 @@ html:not([data-mode]) {
   --topbar-wrapper-bg: #000000 !important;
   --card-bg: #000000 !important;
   --tb-bg: #000000 !important;
+  --nav-cursor-transform: #000000 !important;
   background-color: #000000 !important;
 }
 
-/* Override system media query preferences */
-@media (prefers-color-scheme: dark), (prefers-color-scheme: light) {
+/* Hard override for container elements */
+html, body, #main-wrapper, #sidebar, #topbar-wrapper, #search-result-wrapper, #mask, .card {
+  background-color: #000000 !important;
+  background: #000000 !important;
+}
+
+/* Target media query dark mode directly */
+@media (prefers-color-scheme: dark) {
   :root, html, body, #main-wrapper, #sidebar, #topbar-wrapper, #search-result-wrapper {
     --main-bg: #000000 !important;
     --bg-color: #000000 !important;
@@ -38,9 +45,6 @@ html:not([data-mode]) {
     --topbar-wrapper-bg: #000000 !important;
     --card-bg: #000000 !important;
     background-color: #000000 !important;
+    background: #000000 !important;
   }
-}
-
-#main-wrapper, #sidebar, #topbar-wrapper, #sidebar-trigger, body {
-  background-color: #000000 !important;
 }
