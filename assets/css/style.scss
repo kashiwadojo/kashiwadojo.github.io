@@ -12,13 +12,8 @@ i.fa-tag {
   content: "" !important;
 }
 
-/* Force true pitch black across all CSS variables */
-:root,
-html,
-body,
-html[data-mode='dark'],
-html[data-mode='light'],
-html:not([data-mode]) {
+/* Force pure black (#000000) on all element selectors */
+* {
   --main-bg: #000000 !important;
   --bg-color: #000000 !important;
   --mask-bg: #000000 !important;
@@ -27,23 +22,32 @@ html:not([data-mode]) {
   --card-bg: #000000 !important;
   --tb-bg: #000000 !important;
   --nav-cursor-transform: #000000 !important;
-  background-color: #000000 !important;
+  --prompt-info-bg: #000000 !important;
+  --prompt-tip-bg: #000000 !important;
+  --prompt-warning-bg: #000000 !important;
+  --prompt-danger-bg: #000000 !important;
 }
 
-/* Hard override for container elements */
-html, body, #main-wrapper, #sidebar, #topbar-wrapper, #search-result-wrapper, #mask, .card {
+/* Universal background reset */
+html, 
+body, 
+#main-wrapper, 
+#sidebar, 
+#topbar-wrapper, 
+#search-result-wrapper, 
+#mask, 
+.card,
+main,
+footer,
+header,
+nav {
   background-color: #000000 !important;
   background: #000000 !important;
 }
 
-/* Target media query dark mode directly */
+/* Dark mode media query override */
 @media (prefers-color-scheme: dark) {
-  :root, html, body, #main-wrapper, #sidebar, #topbar-wrapper, #search-result-wrapper {
-    --main-bg: #000000 !important;
-    --bg-color: #000000 !important;
-    --sidebar-bg: #000000 !important;
-    --topbar-wrapper-bg: #000000 !important;
-    --card-bg: #000000 !important;
+  html, body, #main-wrapper, #sidebar, #topbar-wrapper, #search-result-wrapper, .card {
     background-color: #000000 !important;
     background: #000000 !important;
   }
