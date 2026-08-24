@@ -8,21 +8,17 @@ order: 2
 
 ## A brief history
 
-> “Iaido” is made up of three characters:
->
-> i: 居る (iru) meaning “to exist, to be”
->
-> ai: 合わす (awasu) meaning “to blend, to adapt”
->
-> do: 道 (michi) meaning “path, way”
->
-> The compound meaning comes from the saying:
->
-> 「常にに居て、急に合わす」>
->
-> “Tsune ni ite, kyu ni awasu”
->
-> This means “Exist normally and naturally, be ready to quickly adapt to the situation”.
+“Iaido” is made up of three characters:
+
+i - 居る (iru) “to exist, to be”
+
+ai - 合わす (awasu) “to blend, to adapt”
+
+do - 道 (michi) “path, way”
+
+This comes from the saying:
+
+常にに居て、急に合わす (Tsune ni ite, kyu ni awasu) “Exist normally and naturally, be ready to quickly adapt to the situation”
 
 Credited to Andy Watson ([Ryoshinkan Dojo](https://www.ryoshinkan.org/our-arts/iaido))
 
