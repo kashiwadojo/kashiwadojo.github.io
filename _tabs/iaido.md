@@ -18,7 +18,7 @@ do - 道 (michi) “path, way”
 
 This comes from the saying:
 
-常にに居て、急に合わす (Tsune ni ite, kyu ni awasu) “Exist normally and naturally, be ready to quickly adapt to the situation”
+常に居て、急に合わす (Tsune ni ite, kyu ni awasu) “Exist normally and naturally, be ready to quickly adapt to the situation”
 
 Credited to Andy Watson ([Ryoshinkan Dojo](https://www.ryoshinkan.org/our-arts/iaido))
 
