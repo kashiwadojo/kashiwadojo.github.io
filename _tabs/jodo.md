@@ -8,7 +8,7 @@ order: 3
 
 ## A brief history
 
-Jodo, the way of the stick, was developed by Muso Gonnosuke about 400 years ago. The story goes that Muso Gonnosuke challenged the famous swordsman Miyamoto Musashi to a duel (with wooden swords) and was defeated but, as was rare in those days (and even rarer for Musashi), Gonnosuke was allowed to live after his defeat.
+Jodo(杖道), the way of the stick, was developed by Muso Gonnosuke about 400 years ago. The story goes that Muso Gonnosuke challenged the famous swordsman Miyamoto Musashi to a duel (with wooden swords) and was defeated but, as was rare in those days (and even rarer for Musashi), Gonnosuke was allowed to live after his defeat.
 
 Gonnosuke retreated to a cave and focussed his efforts on meditation and practice with the Jo (staff). One of several legends says that while resting near a fire in a certain temple, Gonnosuke heard a voice say, "With the round stick, know the strategy of the solar plexus" (丸木を以って、水月を知れ, maruki wo motte, suigetsu wo shire). After much practice and experimentation he developed a style of fighting that merged spear-fighting (sojutsu) and swordsmanship (kenjutsu), he named this combat form Shindo Muso Ryu and, when he was ready, Gonnosuke challenged Musashi again.
 
@@ -30,11 +30,11 @@ Jodo today is practised through solo techniques (tandoku dosa), paired technique
 
 From the Meiji period onwards, other weapon systems were incorporated into the Shindo muso ryu curriculum.
 
-- **Tanjo jutsu (Uchida ryu):** A set of 12 kata using a tanjo (a 90 cm walking stick) vs a sword
-- **Kenjutsu (Shinto ryu):** A set of 12 long sword and 4 short sword kata vs another long sword
-- **Jutte jutsu (Ikkaku ryu):** Two sets of 12 kata using a jutte (a metal truncheon with a side prong) and a tessen (a metal fan) vs a sword
-- **Kusarigama jutsu (Isshin ryu):** Two sets of 12 kata using a sickle and chain vs a sword
-- **Hojo jutsu** A set of rope tying techniques for restraint (not currently taught at Kashiwa).
+- **Tanjo jutsu (Uchida ryu) 内田流短杖術:** A set of 12 kata using a tanjo (a 90 cm walking stick) vs a sword
+- **Kenjutsu (Shinto ryu) 霞神道流剣術:** A set of 12 long sword and 4 short sword kata vs another long sword
+- **Jutte jutsu (Ikkaku ryu) 一角流十手術:** Two sets of 12 kata using a jutte (a metal truncheon with a side prong) and a tessen (a metal fan) vs a sword
+- **Kusarigama jutsu (Isshin ryu) 一心流鎖鎌術:** Two sets of 12 kata using a sickle and chain vs a sword
+- **Hojo jutsu (一達流捕縄術)** A set of rope tying techniques for restraint (not currently taught at Kashiwa).
 
 ## Our Lineage
 
