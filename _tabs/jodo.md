@@ -34,7 +34,7 @@ From the Meiji period onwards, other weapon systems were incorporated into the S
 - **Kenjutsu (Shinto ryu) 霞神道流剣術:** A set of 12 long sword and 4 short sword kata vs another long sword
 - **Jutte jutsu (Ikkaku ryu) 一角流十手術:** Two sets of 12 kata using a jutte (a metal truncheon with a side prong) and a tessen (a metal fan) vs a sword
 - **Kusarigama jutsu (Isshin ryu) 一心流鎖鎌術:** Two sets of 12 kata using a sickle and chain vs a sword
-- **Hojo jutsu (一達流捕縄術)** A set of rope tying techniques for restraint (not currently taught at Kashiwa).
+- **Hojo jutsu (Ittatsu ryu) 一達流捕縄術** A set of rope tying techniques for restraint (not currently taught at Kashiwa).
 
 ## Our Lineage
 
