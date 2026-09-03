@@ -8,13 +8,13 @@ order: 2
 
 ## A brief history
 
-“Iaido” is made up of three characters:
+The art of drawing and cutting with the Japanese sword, iaido (居合道) is made up of three characters:
 
-i - 居る (iru) “to exist, to be”
+- **I** - 居る (iru) “to exist, to be”
 
-ai - 合わす (awasu) “to blend, to adapt”
+- **Ai** - 合わす (awasu) “to blend, to adapt”
 
-do - 道 (michi) “path, way”
+- **Do** - 道 (michi) “path, way”
 
 This comes from the saying:
 
