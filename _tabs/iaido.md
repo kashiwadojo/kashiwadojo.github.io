@@ -20,7 +20,7 @@ This comes from the saying:
 
 常に居て、急に合わす (Tsune ni ite, kyu ni awasu) “Exist normally and naturally, be ready to quickly adapt to the situation”
 
-Credited to Andy Watson ([Ryoshinkan Dojo](https://www.ryoshinkan.org/our-arts/iaido))
+_Credited to Andy Watson ([Ryoshinkan Dojo](https://www.ryoshinkan.org/our-arts/iaido))_
 
 Iaijutsu, the art of drawing and cutting with the blade, was seen as an art in its own right and was practised in parallel with Kenjutsu. Iaijutsu (precursor to today’s Iaido) was developed for encounters in daily life where the sword would be drawn and used against one or more adversaries, the aim being to dispatch the opponent with the first (or at most second) strike.
 
