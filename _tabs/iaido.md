@@ -36,7 +36,7 @@ At Kashiwa we study All Japan Kendo Federation (ZNKR) iaido and our koryu (old s
 
 - **Equipment:** Beginners start off with an oak sword, then progress to an iaito (blunt alloy training sword), and eventually (and only after many years of training!) a sharp Japanese smith-made sword. We train in black or white gi and hakama with a wide iaido obi (belt) underneath.
 
-- **Lineage:** We are a member dojo of the European Shinkage Ryu Family, which aims to promote the study and practice of Shinkage ryu as taught by our teacher Matsuoka Yoshitaka sensei (kyoshi 8th Dan, Iaido Shinkage-ryu Kasugai-kai, Nagoya, Japan).
+- **Lineage:** We are a member of the European Shinkage Ryu Family, which aims to promote the study and practice of Shinkage ryu as taught by our teacher Matsuoka Yoshitaka sensei (kyoshi 8th Dan, Iaido Shinkage-ryu Kasugai-kai, Nagoya, Japan).
 
 ![Matsuoka Sensei](/assets/img/10583030_10154070761024525_874801828731056799_o-e1458239586421-607x1024.jpg){: w="202" h="341" }
 _Matsuoka Sensei (kyoshi 8th dan, Nagoya, Japan) (Photo by David Merinero)_
